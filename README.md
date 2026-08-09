@@ -112,13 +112,7 @@ The first ANN attempt underperformed not because the architecture was wrong, but
 ├── data/
 │   └── Exam_Score_Prediction.csv
 ├── notebooks/
-│   ├── 01_eda_and_ols_diagnostics.ipynb
-│   ├── 02_baseline_models.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_ann_experiments.ipynb
-│   └── 05_cross_validation.ipynb
-├── reports/
-│   └── ANN_Experimentation_Writeup.md
+│   ├── Exam_Score_Prediction.ipynb
 └── README.md
 ```
  
